@@ -1,3 +1,5 @@
+#Detection-of-Predatory-Journal-using-Machine-Learning-and-Django
+
 Predatory Journals take advantage of authors by asking them to publish for a fee without
 providing peer-review or editing services. Because predatory publishers do not follow the
 proper academic standards for publishing, they usually offer a quick turnaround on publishing
